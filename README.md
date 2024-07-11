@@ -1,5 +1,5 @@
 ### Hi there 
-<h1 align="center"> Hi 👋 width="28px", I'm Isaque Prestes</h1>
+<h1 align="center"> Hi 👋, I'm Isaque Prestes </h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=isaquepf&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Backend Developer .NET|C#
