@@ -1,8 +1,8 @@
 ### Hi there 
-<h1 align="center">Hi 👋 width="28px"/>, I'm Isaque Prestes</h1>
+<h1 align="center"> Hi 👋 width="28px", I'm Isaque Prestes</h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=isaquepf&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-  Backend Developer
+  Backend Developer .NET|C#
   <a href="/">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
