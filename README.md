@@ -1,62 +1,50 @@
-### Hi there 
-<h1 align="center"> Hi 👋, I'm Isaque Prestes </h1>
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=isaquepf&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-  Backend Developer .NET|C#
-  <a href="/">
-    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
-  </a>
-</h2>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Isaque Prestes
+======================================================================================================================================
+
+Backend Developer .NET | C#
+---------------------------
+
+Hello! 👋 I am passionate about programming and solve complex challenges with a diverse set of software development skills. With over a decade of experience, my main focus has been developing in C#, Python and Node.js, in many areas such fintechs, health, tourism, CRM, etc.
+
+* 🌍  I'm based in Brazil
+* ✉️  You can contact me at [isaquepf@gmail.com](mailto:isaquepf@gmail.com)
+* 🚀  I'm currently working on [DBSP](http://db.tec.br/)
+* 🧠  I'm learning Golang, Cripto Contracts and Dotnet Core Updates..
+* 🤝  I'm open to collaborating on Nodejs, dotnet, Python and Go projects.
+
+<a href="https://www.github.com/isaquepf" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/isaquepf?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 <div align="center">
  <img alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDYyaXY5eXN3ZHg0cjVidDZnaHJ0ZzBkemExcm1tanc0NHNnMzJ3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" />
 </div>
 
-## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
-Hello! 👋 I am passionate about programming and solve complex challenges with a diverse set of software development skills. With over a decade of experience, my main focus has been developing in C#, Python and Node.js,
-in various areas such  fintechs, health, tourism, etc.
+### Skills
 
-<details>
- <summary>
-    <h2> 
-      <img align="center" src="https://github.com/isaquepf/isaquepf/blob/main/icons/about.png" width="37" /> 
-    Resume
-    </h2>
-</summary>
 
- <details>
-  <summary><h4> <img align="center" src="https://github.com/isaquepf/isaquepf/blob/main/icons/about.png/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BTECH-[YourUniversity]-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-[YourGPA]-EFEEE9?style=for-the-badge"></span>
- </details>
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://near.academy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/near-colored.svg" width="36" height="36" alt="Near" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+</p>
 
- <details>
-  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-  - **Principal Dotnet  Developer** at [DBServer/SuperDigital] | [5 years]
-    - At Superdigital, I developed and maintained microservices in dotnet core 3~8 and NodeJS. I also migrated legacy services from .NET Full to Dotnet core using Clean Architecture, RabbitMQ. I also developed a lambda function to reprocess dead letter orders in Python.
-   
-  - **Sênior Dotnet  Developer** at JBS | [3 years]
-    - At JBS, I developed many intranet apis, WebSystems and an Ecommerce. Using MVC 5, dotnet core 2, Angular 1, Jquery, Javascript, NodeJS, SQL and MongoDB.
- </details>
-</details>
 
-<details>
-  <summary><h4> <img align="center" src="https://github.com/isaquepf/isaquepf/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
-  ![C#]([https://img.shields.io/badge/c#-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=whit](https://img.shields.io/badge/csharp-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-</details>
+### Socials
 
-<!--
-**isaquepf/isaquepf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://www.github.com/isaquepf" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/isaqueprestes" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-Here are some ideas to get you started:
+### Badges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/isaquepf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=isaquepf&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/isaquepf"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=isaquepf&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/isaquepf" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaquepf&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/isaquepf"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul>
